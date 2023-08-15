@@ -4,6 +4,32 @@ Este é um jogo 2048 desenvolvido em Python usando a biblioteca Tkinter. O jogo 
 
 ## Instruções
 
+1. **Instalação das dependências**:
+   Certifique-se de ter o Python instalado. Se ainda não tiver o Tkinter instalado, você pode instalá-lo usando o seguinte comando:
+
+   ```bash
+   pip install tk
+   ```
+
+2. Clonar o Repositório:
+Clone este repositório para o seu computador:
+
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
+
+3. Execução do Jogo:
+Navegue para a pasta do projeto e execute o seguinte comando para iniciar o jogo:
+
+```bash
+python nome_do_arquivo.py
+```
+
+## Funcionalidades
+
+1. Interface gráfica amigável usando a biblioteca Tkinter.
+2. Movimentação das células com as teclas de seta.
+3. Cores e formatação visual para melhor experiência do usuário.
 
 
 ## Regras do Jogo
